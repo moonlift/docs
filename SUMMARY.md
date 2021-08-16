@@ -8,11 +8,14 @@
 * [🎮 Play & Earn](products/play-and-earn.md)
 * [✨ Supernova](products/supernova.md)
 
-## Tokenomics
+## Tokenomics MLTPX <a id="tokenomics"></a>
 
 * [👩‍🚀 MLTPX](tokenomics/mltpx.md)
-* [👽 Origon](tokenomics/origon/README.md)
-  * [Tokenomics Origon](tokenomics/origon/tokenomics-origon.md)
-* [🤖 Nimble](tokenomics/nimble/README.md)
-  * [Tokenomics Nimble](tokenomics/nimble/tokenomics-nimble.md)
+
+## Tokenomics Secondary Tokens
+
+* [👽 Origon](tokenomics-secondary-tokens/origon/README.md)
+  * [Tokenomics Origon](tokenomics-secondary-tokens/origon/tokenomics-origon.md)
+* [🤖 Nimble](tokenomics-secondary-tokens/nimble/README.md)
+  * [Tokenomics Nimble](tokenomics-secondary-tokens/nimble/tokenomics-nimble.md)
 
