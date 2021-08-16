@@ -1,4 +1,4 @@
-# Play & Earn
+# 🎮 Play & Earn
 
 Play & Earn
 

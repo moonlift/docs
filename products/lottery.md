@@ -4,7 +4,7 @@ description: >-
   to win humongous prizes!
 ---
 
-# Lottery
+# 🎫 Lottery
 
 ![](../.gitbook/assets/lottery-coming-soon1.jpg)
 

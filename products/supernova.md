@@ -1,4 +1,4 @@
-# Supernova
+# ✨ Supernova
 
 ![](../.gitbook/assets/supernova-logo.png)
 
