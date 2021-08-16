@@ -5,7 +5,8 @@
 ## Products
 
 * [🎫 Lottery](products/lottery.md)
-* [🎮 Play & Earn](products/play-and-earn.md)
+* [🎮 Play & Earn](products/play-and-earn/README.md)
+  * [News & Announcements](products/play-and-earn/news-and-announcements.md)
 * [✨ Supernova](products/supernova.md)
 
 ## Tokenomics MLTPX <a id="tokenomics"></a>
