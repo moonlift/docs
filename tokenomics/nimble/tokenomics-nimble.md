@@ -27,7 +27,7 @@
 | Syrup Pools | 25% | 0.25 | 7,200 \(~\) |
 | **Total Daily NIMBLE Emission** |  |  | **13,250 \(approx\)** |
 
-## Deflaction Mechanics
+## Deflation Mechanics
 
 * **100%** Nimble spent on Profile Creation & NFT Minting
 * **19%** Nimble spent on Lottery
