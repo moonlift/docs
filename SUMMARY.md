@@ -11,6 +11,8 @@
 ## Tokenomics
 
 * [👩‍🚀 MLTPX](tokenomics/mltpx.md)
-* [👽 Origon](tokenomics/origon.md)
-* [🤖 Nimble](tokenomics/nimble.md)
+* [👽 Origon](tokenomics/origon/README.md)
+  * [Tokenomics Origon](tokenomics/origon/tokenomics-origon.md)
+* [🤖 Nimble](tokenomics/nimble/README.md)
+  * [Tokenomics Nimble](tokenomics/nimble/tokenomics-nimble.md)
 

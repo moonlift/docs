@@ -1,10 +1,10 @@
 ---
-description: MLTPX Second token running on Polygon.
+description: MLTPX second token running on Polygon.
 ---
 
 # 👽 Origon
 
-![](../.gitbook/assets/origon-logo.png)
+![](../../.gitbook/assets/origon-logo.png)
 
 * **Ticker:** 
 * **Contract Adress:**
