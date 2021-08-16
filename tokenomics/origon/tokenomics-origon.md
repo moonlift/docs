@@ -27,7 +27,7 @@
 | Syrup Pools | 25% | 0.25 | 7,200 \(~\) |
 | **Total Daily ORIGON Emission** |  |  | **13,250 \(approx\)** |
 
-## Deflaction Mechanics
+## Deflation Mechanics
 
 * **100%** Origon spent on Profile Creation & NFT Minting
 * **19%** Origon spent on Lottery
