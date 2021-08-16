@@ -4,6 +4,8 @@ description: MLTPX Second token running on Polygon.
 
 # 👽 Origon
 
+![](../.gitbook/assets/origon-logo.png)
+
 * **Ticker:** 
 * **Contract Adress:**
 * **Chain:** 

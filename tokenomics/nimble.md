@@ -4,6 +4,8 @@ description: MLTPX second token running on Binance Smart Chain.
 
 # 🤖 Nimble
 
+![](../.gitbook/assets/nimble-logo.png)
+
 * **Ticker:** 
 * **Contract Adress:**
 * **Chain:** 
