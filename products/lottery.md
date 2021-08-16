@@ -42,9 +42,19 @@ The distribution of prizes is simple. Every ticket that ends in a pizebracket ta
 
 ## The Tickets
 
-You can buy tickets via our dex **insert link.** 1 up to 100 tickets can be obtained with one purchase. If you want to buy many tickets, consider buying them in bulk purchases as these will provide a discount up to 5% if you order 100 tickets in one purchase. However, bulk discount starts at 2 tickets and it scales up towards 100 tickets.
+You can buy tickets via our dex **INSERT LINK.** As mentioned earlier, one ticket costs ~5 USD worth \(small pricefluctuations cause minor deviations\) of MLTPX. ****Tickets can be bought during the entire duration of a lottery. After a lottery ends, there is a small period of time in which you can't buy tickets. 1 up to 100 tickets can be obtained with one purchase. Below follows a guide on how to buy tickets.
+
+**GUIDE WITH SCREENSHOTS**
+
+If you want to buy many tickets, consider buying them in bulk purchases as these will provide a discount up to 5% if you order 100 tickets in one purchase. However, bulk discount already starts at 2 tickets and it gradually scales up towards 100 tickets.
 
 **INSERT BULK DISCOUNT IMAGES**
+
+You have received your tickets, congratulations! Now you have two options; keep the tickets the way they are \(randomized\) or adjust the numbers yourself \(manually\). 
+
+**GUIDE ON HOW TO ADJUST TICKET NUMBERS**
+
+\*\*\*\*
 
 
 

@@ -8,3 +8,9 @@
 * [Play & Earn](products/play-and-earn.md)
 * [Supernova](products/supernova.md)
 
+## Tokenomics
+
+* [MLTPX](tokenomics/mltpx.md)
+* [Origon](tokenomics/origon.md)
+* [Nimble](tokenomics/nimble.md)
+
