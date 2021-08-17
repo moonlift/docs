@@ -2,6 +2,8 @@
 
 ![](../.gitbook/assets/supernova-logo.png)
 
+## Supernova
+
 **Dear MoonLifters,**   
 
 
