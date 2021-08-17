@@ -16,7 +16,7 @@ description: >-
 
 MLTPX is a user driven project and therefore values the participation of the community. Governance \(voting\) is the implementation of this. Governance will give members a say by enabling MLTPX holders to vote and also create reviewed topics. This is a key application to regulate all other functionalities across the DEX.
 
-MLTPX currently connects through Binance Smart Chain \(BSC\) and Polygon. Possibly more chains in the future. MLTPX is used for all internal DEX functions. You need to stake MLTPX for Supernova and Special Pools and use it for the Lottery. By doing this you can earn secondary tokens which you can sell or use for Play & Earn and the NFT Marketplace.
+MLTPX currently connects through Binance Smart Chain \(BSC\) and Polygon. Possibly more chains in the future. MLTPX is used for all internal DEX functions. You need to stake MLTPX for Supernova and Special Pools and use it for the Lottery. By doing this you can earn secondary tokens which you can trade or use for Play & Earn and the NFT Marketplace.
 
 
 
