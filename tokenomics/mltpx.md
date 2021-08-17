@@ -22,8 +22,9 @@ MLTPX currently connects through Binance Smart Chain \(BSC\) and Polygon. Possib
 
 ![](../.gitbook/assets/deflate-mltpx.png)
 
-For deflating we have a few mechanisms. 19% of each lottery draw is burned. 1% is allocated for funding purposes \(marketing, development\). 80% remains in the lottery prize pools. Each MLTPX Pairing on the Swap will burn 0.1% per transaction. What remains is manual burns to retain balance and to positively influence the MTLPX course.  
+For deflating we have a few mechanisms. 19% of each lottery draw is burned. 1% is allocated for funding purposes \(marketing, development\). 80% remains in the lottery prize pools. Each MLTPX Pairing on the Swap will burn 0.1% per transaction. What remains is manual burns to retain balance and to positively influence the MTLPX course.
 
+##  
 
 
 
