@@ -14,6 +14,8 @@ description: >-
 
 ![](../.gitbook/assets/tokenomics-mltpx.png)
 
+![](../.gitbook/assets/deflate-mltpx.png)
+
   
 
 
