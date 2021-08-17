@@ -8,16 +8,12 @@ description: >-
 
 ![](../.gitbook/assets/moonlift-logo-2.2-png.png)
 
-* **Ticker:**
+* **Ticker:** MLTPX
 * **Contract Adress:**
 * **Chain:**
 
-## Contents
+## Summary
 
-1. How to earn & use MLTPX.
-2. Tokenomics.
-
-##  
-
+* 
 
 
