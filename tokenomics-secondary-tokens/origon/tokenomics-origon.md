@@ -1,5 +1,7 @@
 # Tokenomics Origon
 
+![](../../.gitbook/assets/emission-origon.png)
+
 ## **Emission rate** <a id="emission-rate"></a>
 
 ### **Per block**

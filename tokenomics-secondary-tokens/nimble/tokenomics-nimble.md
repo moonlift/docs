@@ -1,5 +1,7 @@
 # Tokenomics Nimble
 
+![](../../.gitbook/assets/emission-nimble.png)
+
 ## **Emission rate** <a id="emission-rate"></a>
 
 ### **Per block**
