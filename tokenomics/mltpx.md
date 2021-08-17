@@ -12,8 +12,10 @@ description: >-
 * **Contract Adress:**
 * **Chain:**
 
-## Summary
+![](../.gitbook/assets/tokenomics-mltpx.png)
 
-* 
+  
+
+
 
 
