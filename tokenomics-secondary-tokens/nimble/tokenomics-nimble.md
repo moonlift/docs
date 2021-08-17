@@ -24,7 +24,7 @@
 | :--- | ---: | ---: | ---: |
 | Farms and Lottery | 22.5% | 0.225 | 6,480 \(~\) |
 | of which diverted and burned |  |  | -1,150 |
-| Syrup Pools | 25% | 0.25 | 7,200 \(~\) |
+| Supernova Pools | 25% | 0.25 | 7,200 \(~\) |
 | **Total Daily NIMBLE Emission** |  |  | **13,250 \(approx\)** |
 
 ## Deflation Mechanics
