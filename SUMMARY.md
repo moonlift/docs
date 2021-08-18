@@ -6,6 +6,7 @@
 
 * [🎫 Lottery](products/lottery.md)
 * [🎮 Play & Earn](products/play-and-earn/README.md)
+  * [Card Game](products/play-and-earn/card-game.md)
   * [News & Announcements](products/play-and-earn/news-and-announcements.md)
 * [✨ Supernova](products/supernova.md)
 
