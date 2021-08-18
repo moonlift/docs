@@ -8,7 +8,7 @@ These will be for sale on the NFT-marketplace and obtainable via the completion 
 
 ### Season prizes
 
-We will allocate 10% of mint per block for Nimble and Origon to be awarded as auto-injection to the top 20 players. 1.325 x 30 = 39.750 is the share of daily emission to be distributed amongst the top 20. 
+We will allocate 10% of mint per block for Nimble and Origon to be awarded as auto-injection to the top 20 players. 1.325 x 30 = 39.750 is the share of daily emission to be distributed amongst the top 20. 1.325 is 10% of daily emission. 30 is the amount of days in a season \(monthly\).
 
 | Rank | Percentage of share \(%\) |
 | :--- | :--- |
