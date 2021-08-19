@@ -19,10 +19,17 @@ Naturally, external tokens will undergo a manual quality scrutiny, to ensure tha
 Individuals who stake their MLTPX in SUPERNOVA will be rewarded with all the tokens from those third party projects that have been admitted to SUPERNOVA by the MoonLift Protocol Core Team.   
 
 
-It is going to be possible to lock your MLTPX in SUPERNOVA for 14, 30, 60 or 90 days in order to get extra benefits depending on the length of time involved.   
+It is going to be possible to lock your MLTPX in SUPERNOVA for 14, 30, 60 or 90 days in order to get extra benefits depending on the length of time involved. 
 
+| Lock period | extra benefits |
+| :--- | :--- |
+| 14 Days | 2,5% |
+| 30 Days | 5% |
+| 60 Days | 10% |
+| 90 Days | 15% |
 
-As always, we want to thank you for the continued support over the course of this adventure. This is only the first of many further developments, so stay tuned.   
+  
+  
   
   
 ****  
