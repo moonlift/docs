@@ -7,7 +7,7 @@
 * [🎫 Lottery](products/lottery.md)
 * [🎮 Play & Earn](products/play-and-earn/README.md)
   * [Card Game](products/play-and-earn/card-game/README.md)
-    * [Forging](products/play-and-earn/card-game/forging.md)
+    * [Rewards & Earnings](products/play-and-earn/card-game/rewards-and-earnings.md)
     * [Land](products/play-and-earn/card-game/land.md)
     * [Utility and Sustainability](products/play-and-earn/card-game/utility-and-sustainability.md)
   * [Alpha Team](products/play-and-earn/alpha-team.md)
