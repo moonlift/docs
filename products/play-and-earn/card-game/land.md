@@ -22,9 +22,10 @@ Zosalara has a total ~5000 plots. The plots aren't all the same. Some are rare a
 | :--- | :--- |
 | Hypercore | 20 |
 | Capital | 480 |
-| Suburbs | 1000 |
-| Outskirts | 1500 |
+| Suburbs | 500 |
+| Outskirts | 1000 |
 | Plasma Fields | 2000 |
+| Resource Plots \(Can't be owned\) | 1000 |
 
 
 
