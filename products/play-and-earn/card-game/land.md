@@ -16,7 +16,7 @@ Owners of land can fill their plot with structures and decorations which cost re
 
 ### The Plots
 
-Zosalara has a total ~5000 plots. The plots aren't all the same. Some are rare and provide advantages, others are more basic and require the player to build a lot to utilize the land. There are 5 rings, noted below from inner ring \(rare\) to outer ring \(common\);
+Zosalara has a total of ~5000 plots. The plots aren't all the same. Some are rare and provide advantages, others are more basic and require the player to build a lot to utilize the land. There are 5 rings, noted below from inner ring \(rare\) to outer ring \(common\);
 
 | Environment | Amount of plots |
 | :--- | :--- |
