@@ -6,5 +6,7 @@ description: >-
 
 # 💱 Swap
 
-Each trade has a 
+Every trade made on our decentralized exchange will take 0.2% for the treasury wallet. The treasury wallet's purpose is to generate funds for marketing and development.
+
+All trades on MLTPX pairs take an additional 0.1% to burn for deflationary purposes.
 

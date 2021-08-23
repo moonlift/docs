@@ -58,3 +58,7 @@ These will contain three preset quests, centivizing players to spend a small amo
 
 You can also obtain rewards on weekly basis by completing weekly quests. These are 5 quests which will differ but come down to playing certain cards, playing/winning an x amount of games or minor quests related to the decentralized exchange.
 
+### Referrals
+
+Referrals allow you to invite up to 10 friends and get rewards. More to come.
+
