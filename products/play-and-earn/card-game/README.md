@@ -20,5 +20,5 @@ Land will be the supportive secondairy gamemode. Land is essentially a planet di
 You are the one and only owner of your rewards so you choose how to utilize them.
 {% endhint %}
 
-Rewards all have their own usecases. Most of them come down to upgrading your deck/cards, but you can also decide to trade with some of them. We want to emphasize the importance of this, because in mainstream games all currency and effort you put in is eventually lost since you cannot trade it when you lose interest in the game.
+Rewards all have their own usecases. Most of them come down to upgrading your deck/cards, but you can also decide to trade with some of them. We want to emphasize the importance of this, because in mainstream games all currency and effort you put in is eventually lost since it's not your true property.
 

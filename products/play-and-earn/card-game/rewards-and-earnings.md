@@ -48,7 +48,7 @@ For each win, you get suitable rewards. These depend on your current level and s
 
 ### Daily Quests
 
-These will contain three preset quests, centivizing players to spend a small amount of time each day playing the game. This will result in faster queues and stronger decks. The preset daily quests;
+These will contain three preset quests, centivizing players to spend a small amount of time each day playing the game. This will result in faster matchmaking and stronger decks. The preset daily quests;
 
 * Daily Check-In.
 * Play 5 games.
