@@ -18,9 +18,9 @@ MLTPX is a user driven project and therefore values the participation of the com
 
 MLTPX currently connects through Binance Smart Chain \(BSC\) and Polygon. Possibly more chains in the future. MLTPX is used for all internal DEX functions. You need to stake MLTPX for Supernova and Special Pools and use it for the Lottery. By doing this you can earn secondary tokens which you can trade or use for Play & Earn and the NFT Marketplace.
 
-
-
 ![](../.gitbook/assets/deflate-mechanism.png)
+
+
 
 For deflating we have a few mechanisms. 19% of each lottery draw is burned. 1% is allocated for funding purposes \(marketing, development\). 80% remains in the lottery prize pools. Each MLTPX Pairing on the Swap will burn 0.1% per transaction. What remains is manual burns to retain balance and to positively influence the MTLPX course.
 
