@@ -12,7 +12,13 @@ ChainWars evolves around a story of galactic warfare. The essence of the galaxy,
 
 ## Gameplay
 
-There are 2 main gamemodes for progressing and leveling up.
+The main game is a strategic card-game. The cards are created by our very own designers and made compatible by our game- and blockchaindevelopers. The main goal of the game is getting a strong, diverse deck of cards so you can compete with the best players of the game. For detailed information and a quick guide, see **LINK.**
 
-\_\_
+Land will be the supportive secondairy gamemode. Land is essentially a planet divided into lots of plots of building space. Players can upgrade their deck, personalize their character and piece of land and socialize with other players. It also functions as a way to level up to avoid matchmaking issues.
+
+{% hint style="info" %}
+You are the one and only owner of your rewards so you choose how to utilize them.
+{% endhint %}
+
+Rewards all have their own usecases. Most of them come down to upgrading your deck/cards, but you can also decide to trade with some of them. We want to emphasize the importance of this, because in mainstream games all currency and effort you put in is eventually lost since you cannot trade it when you lose interest in the game.
 
