@@ -10,3 +10,5 @@ Every trade made on our decentralized exchange will take 0.2% for the treasury w
 
 All trades on MLTPX pairs take an additional 0.1% to burn for deflationary purposes.
 
+![](../.gitbook/assets/mobile-dex-mockup.png)
+
