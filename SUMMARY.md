@@ -8,7 +8,7 @@
 * [🎫 Lottery](products/lottery.md)
 * [🎮 Play & Earn](products/play-and-earn/README.md)
   * [Tournaments](products/play-and-earn/tournaments.md)
-  * [Card Game](products/play-and-earn/card-game/README.md)
+  * [ChainWars](products/play-and-earn/card-game/README.md)
     * [eSports](products/play-and-earn/card-game/esports.md)
     * [Rewards & Earnings](products/play-and-earn/card-game/rewards-and-earnings.md)
     * [Land](products/play-and-earn/card-game/land.md)

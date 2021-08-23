@@ -19,7 +19,6 @@ In terms of our card game, the utility of Nimble and Origon consists mostly out 
 * Buying Land
 * Buying Lootboxes
 * Buying a Season Pass
-* Forging Cards
 
 To manage sustainability of Nimble and Origon, the required amount to forge cards or buy a season pass with will be burned 100%. Land will be traded in an open peer to peer market \(the community determines the price\).
 
