@@ -1,6 +1,8 @@
 # Tokenomics Nimble
 
-![](../../.gitbook/assets/emission-nimble.png)
+![](../../.gitbook/assets/nimble-tokenomics.png)
+
+
 
 ## **Emission rate** <a id="emission-rate"></a>
 
