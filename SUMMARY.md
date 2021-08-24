@@ -1,6 +1,10 @@
 # Table of contents
 
 * [Contracts](README.md)
+* [Starter Guides](starter-guides/README.md)
+  * [Create a wallet](starter-guides/create-a-wallet.md)
+  * [Get BEP-20 or ERC-20 tokens](starter-guides/get-bep-20-or-erc-20-tokens.md)
+  * [Connect your wallet](starter-guides/connect-your-wallet.md)
 
 ## Products
 
