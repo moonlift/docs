@@ -20,7 +20,7 @@
 | :--- | ---: |
 | Emission | 28,800 |
 | Burned | -576 |
-| **Effective Emission** | **28,224** |
+| **Effective Emission** | **28224** |
 
 ## Distribution <a id="distribution"></a>
 
@@ -28,7 +28,7 @@
 | :--- | ---: | ---: | ---: |
 | Farms and Supernova | 49% | 0.49 | 14112 \(~\) |
 | Play and Earn | 49% | 0.49 | 14112 \(~\) |
-| **Total Daily NIMBLE Emission** |  |  | **28,244 \(approx\)** |
+| **Total Daily NIMBLE Emission** |  |  | **28244 \(approx\)** |
 
 ## Deflation Mechanics
 
