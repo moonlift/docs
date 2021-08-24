@@ -11,25 +11,24 @@
 | **Metric** | **Emission/block \(NIMBLE\)** |
 | :--- | ---: |
 | Emission | 1 |
-| Burned | -0,525 |
-| **Effective Emission** | **0,475** |
+| Burned | -0,02 |
+| **Effective Emission** | **0,98** |
 
 ### Per day <a id="per-day"></a>
 
 | **Metric** | **Emission/day \(NIMBLE\)** |
 | :--- | ---: |
 | Emission | 28,800 |
-| Burned | -16,270 |
-| **Effective Emission** | **12,530** |
+| Burned | -576 |
+| **Effective Emission** | **28,224** |
 
 ## Distribution <a id="distribution"></a>
 
 | Distributed to | Reward/block \(% of emission\) | Reward/block \(total NIMBLE\) | Reward/day |
 | :--- | ---: | ---: | ---: |
-| Farms and Lottery | 22.5% | 0.225 | 6,480 \(~\) |
-| of which diverted and burned |  |  | -1,150 |
-| Supernova Pools | 25% | 0.25 | 7,200 \(~\) |
-| **Total Daily NIMBLE Emission** |  |  | **13,250 \(approx\)** |
+| Farms and Supernova | 49% | 0.49 | 14112 \(~\) |
+| Play and Earn | 49% | 0.49 | 14112 \(~\) |
+| **Total Daily NIMBLE Emission** |  |  | **28,244 \(approx\)** |
 
 ## Deflation Mechanics
 
