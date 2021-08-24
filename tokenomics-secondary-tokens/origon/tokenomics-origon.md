@@ -11,25 +11,24 @@
 | **Metric** | **Emission/block \(ORIGON\)** |
 | :--- | ---: |
 | Emission | 1 |
-| Burned | -0,525 |
-| **Effective Emission** | **0,475** |
+| Burned | -0,02 |
+| **Effective Emission** | **0,98** |
 
 ### Per day <a id="per-day"></a>
 
 | **Metric** | **Emission/day \(ORIGON\)** |
 | :--- | ---: |
 | Emission | 28,800 |
-| Burned | -16,270 |
-| **Effective Emission** | **12,530** |
+| Burned | -576 |
+| **Effective Emission** | **28224** |
 
 ## Distribution <a id="distribution"></a>
 
 | Distributed to | Reward/block \(% of emission\) | Reward/block \(total ORIGON\) | Reward/day |
 | :--- | ---: | ---: | ---: |
-| Farms and Lottery | 22.5% | 0.225 | 6,480 \(~\) |
-| of which diverted and burned |  |  | -1,150 |
-| Supernova Pools | 25% | 0.25 | 7,200 \(~\) |
-| **Total Daily ORIGON Emission** |  |  | **13,250 \(approx\)** |
+| Farms and Lottery | 49% | 0.49 | 6,480 \(~\) |
+| Supernova Pools | 49% | 0.49 | 7,200 \(~\) |
+| **Total Daily ORIGON Emission** |  |  | **28224 \(approx\)** |
 
 ## Deflation Mechanics
 
