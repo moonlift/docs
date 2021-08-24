@@ -1,6 +1,8 @@
 # Tokenomics Origon
 
-![](../../.gitbook/assets/emission-origon.png)
+![](../../.gitbook/assets/origon-tokenomics.png)
+
+
 
 ## **Emission rate** <a id="emission-rate"></a>
 
