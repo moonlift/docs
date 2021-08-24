@@ -4,7 +4,8 @@
 
 ## Products
 
-* [💱 Swap](products/swap.md)
+* [💱 Swap](products/swap/README.md)
+  * [How to Swap](products/swap/how-to-swap.md)
 * [🎫 Lottery](products/lottery.md)
 * [🎮 Play & Earn](products/play-and-earn/README.md)
   * [Tournaments](products/play-and-earn/tournaments.md)
