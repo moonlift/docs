@@ -2,6 +2,8 @@
 
 ### Lootboxes
 
+![](../../../.gitbook/assets/lootbox_transparant-560.png)
+
 These will be for sale on the NFT-marketplace \(~5 USD in Nimble/Origon\) and obtainable via the completion of all weekly quests. Events will provide even more ways to obtain lootboxes. Each lootbox has a chance to drop cards in a certain rarity and form. The rarity will determine how strong the card is. The form is a cosmetic feature. See the tables below to find out about the drop rates.
 
 Forging also allows players to farm stronger cards with lesser ones. This will consume resources and patience though. Read more about this in the Forging section.
