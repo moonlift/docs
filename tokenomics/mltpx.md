@@ -12,7 +12,7 @@ description: >-
 * **Contract Adress:**
 * **Chain:**
 
-![](../.gitbook/assets/mltpx-governance-2.png)
+![](../.gitbook/assets/mltpx-governance-2%20%282%29.png)
 
 MLTPX is a user driven project and therefore values the participation of the community. Governance \(voting\) is the implementation of this. Governance will give members a say by enabling MLTPX holders to vote and also create reviewed topics. This is a key application to regulate all other functionalities across the DEX.
 
