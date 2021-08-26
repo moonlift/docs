@@ -104,21 +104,37 @@ Desktop wallets can be used on both laptops and home computers. They can run as 
 
 ## Wallet Comparison
 
-Listed below are all wallets named above, with an added description on the wallet and how to set it up.
+Listed below are the links to all wallets mentioned.
 
 {% tabs %}
 {% tab title="Trust Wallet" %}
-![](../.gitbook/assets/image%20%281%29.png)
+![](../.gitbook/assets/image%20%283%29.png)
 
-Popular wallet for mobile use. Supports features like in-wallet staking, NFT collectibles and DApps.
-
-**Pros:**
-
-* 
+[Link to website](https://trustwallet.com/)
 {% endtab %}
 
-{% tab title="Second Tab" %}
+{% tab title="MetaMask" %}
+![](../.gitbook/assets/image%20%287%29.png)
 
+[Link to website](https://metamask.io/download.html)
+{% endtab %}
+
+{% tab title="Token Pocket" %}
+![](../.gitbook/assets/image%20%289%29.png)
+
+[Link to website](https://www.tokenpocket.pro/en/download/app)
+{% endtab %}
+
+{% tab title="SafePal" %}
+![](../.gitbook/assets/image%20%281%29.png)
+
+[Link to website](https://safepal.io/download)
+{% endtab %}
+
+{% tab title="Binance Wallet" %}
+![](../.gitbook/assets/image%20%282%29.png)
+
+[Link to website](https://www.binance.org/en)
 {% endtab %}
 {% endtabs %}
 
