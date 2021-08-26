@@ -6,7 +6,7 @@ description: >-
 
 # 👩‍🚀 MLTPX
 
-![](../.gitbook/assets/moonlift-logo-2.2-png.png)
+![](../.gitbook/assets/mltpx-banner.png)
 
 * **Ticker:** MLTPX
 * **Contract Adress:**
@@ -18,7 +18,7 @@ MLTPX is a user driven project and therefore values the participation of the com
 
 MLTPX currently connects through Binance Smart Chain \(BSC\) and Polygon. Possibly more chains in the future. MLTPX is used for all internal DEX functions. You need to stake MLTPX for Supernova and Special Pools and use it for the Lottery. By doing this you can earn secondary tokens which you can trade or use for Play & Earn and the NFT Marketplace.
 
-![](../.gitbook/assets/deflate-mechanism.png)
+![](../.gitbook/assets/mltpx-deflate.png)
 
 
 
