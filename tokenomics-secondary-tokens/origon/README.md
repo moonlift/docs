@@ -4,11 +4,11 @@ description: MLTPX second token running on Polygon.
 
 # 👽 Origon
 
+![](../../.gitbook/assets/origon-banner.png)
+
 * **Ticker:** 
 * **Contract Adress:**
 * **Chain:** 
-
-![](../../.gitbook/assets/origon-banner.png)
 
 ## Summary
 
