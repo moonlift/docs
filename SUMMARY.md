@@ -29,6 +29,7 @@
 
 ## Tokenomics Secondary Tokens
 
+* [💲 Dual Tokensale](tokenomics-secondary-tokens/dual-tokensale.md)
 * [👽 Origon](tokenomics-secondary-tokens/origon/README.md)
   * [Tokenomics Origon](tokenomics-secondary-tokens/origon/tokenomics-origon.md)
 * [🤖 Nimble](tokenomics-secondary-tokens/nimble/README.md)
