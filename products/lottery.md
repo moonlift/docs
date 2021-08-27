@@ -11,7 +11,7 @@ description: >-
 ## Summary
 
 * As long as you have the sufficient funds to buy a ticket, you can always participate!
-* There is no limit for the amount of entries, although **there** **is** a limit of 100 tickets to the amount of tickets per purchase \(you can buy more tickets using multiple purchases\).
+* There is no limit for the amount of entries, although **there** **is** a limit of 50 tickets to the amount of tickets per purchase \(you can buy more tickets using multiple purchases\).
 * To guarantee true randomness and therefore a 100% fair lottery, we use Chainlink's implementations of VRF.
 * Participants will receive a 6-digit code consisting out of the numbers 0-9. For example, a given code could be '9-1-3-6-6-2'. To win prizes, your code has to match the lottery outcome from left to right.
 * Price for a ticket is ~5 USD in MLTPX.
@@ -42,11 +42,11 @@ The distribution of prizes is simple. Every ticket that ends in a pizebracket ta
 
 ## The Tickets
 
-You can buy tickets via our dex **INSERT LINK.** As mentioned earlier, one ticket costs ~5 USD worth \(small pricefluctuations cause minor deviations\) of MLTPX. ****Tickets can be bought during the entire duration of a lottery. After a lottery ends, there is a small period of time in which you can't buy tickets. 1 up to 100 tickets can be obtained with one purchase. Below follows a guide on how to buy tickets.
+You can buy tickets via our dex **INSERT LINK.** As mentioned earlier, one ticket costs ~5 USD worth \(small pricefluctuations cause minor deviations\) of MLTPX. ****Tickets can be bought during the entire duration of a lottery. After a lottery ends, there is a small period of time in which you can't buy tickets. 1 up to 50 tickets can be obtained with one purchase. Below follows a guide on how to buy tickets.
 
 **GUIDE WITH SCREENSHOTS**
 
-If you want to buy many tickets, consider buying them in bulk purchases as these will provide a discount up to 5% if you order 100 tickets in one purchase. However, bulk discount already starts at 2 tickets and it gradually scales up towards 100 tickets.
+If you want to buy many tickets, consider buying them in bulk purchases as these will provide a discount up to 5% if you order 5 tickets in one purchase. However, bulk discount already starts at 2 tickets and it gradually scales up towards 100 tickets.
 
 **INSERT BULK DISCOUNT IMAGES**
 
