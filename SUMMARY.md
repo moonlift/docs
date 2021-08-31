@@ -11,6 +11,7 @@
 * [💱 Swap](products/swap/README.md)
   * [How to Swap](products/swap/how-to-swap.md)
 * [🎫 Lottery](products/lottery.md)
+* [🎨 NFT Marketplace](products/nft-marketplace.md)
 * [🎮 Play & Earn](products/play-and-earn/README.md)
   * [Tournaments](products/play-and-earn/tournaments.md)
   * [ChainWars](products/play-and-earn/card-game/README.md)

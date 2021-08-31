@@ -8,11 +8,25 @@ In abstract, we wish to use the technical possibilities blockchain provides to m
 
 ## Story
 
-ChainWars evolves around a story of galactic warfare. The essence of the galaxy, SuperNova, has been destroyed after millenia of conflict. Dark years have passed, planets and inhabitants have suffered and resources are scarce. It's up to the survivors to recharge the SuperNova and revive the galaxy!
+ChainWars evolves around a story of galactic warfare. As machines developed the intelligence to stop being simply tools and devices for humans to use, they formed their own vision of conquer and destruction. Meanwhile, the once mysterious visitors of earth value the protection of their living above all. After suffering from years of living in a polarized society, humans choose seperate sides in the upcoming war.
+
+After millenia of conflict the essence of the galaxy, SuperNova, has been destroyed . Dark years have passed, planets and inhabitants have suffered and resources are scarce. It's up to the survivors to recharge the SuperNova and revive the galaxy!
 
 ## Gameplay
 
-The main game is a strategic card-game. The cards are created by our very own designers and made compatible by our game- and blockchaindevelopers. The main goal of the game is getting a strong, diverse deck of cards so you can compete with the best players of the game.
+The main game is a strategic card-game. The cards are created by our very own designers and made compatible by our game- and blockchaindevelopers. Cards differ by species, type and rarity. Let's elaborate.
+
+**Species** - Species relate to the associated networks. These are our own - Moonlift, Polygon - Origon and Binance Smart Chain - Nimble. 
+
+Moonlift consists out of humans heavily adapted to space circumstances as a result of evolutionary progress. Life on earth became nearly impossible so when possibilities expanded, humans have expanded their residence across the galaxy. They have a neutral position in the game, meaning they can be played whether you are connected via Polygon or Binance Smart Chain.
+
+Origon are the rumored unknown visitors we talked about for centuries. All this time has led to suspicion about each others intentions. Origon wants to protect its inhabitation at all cost. Origon cards can only be played and earned when connected via Polygon.
+
+Nimble is the result of our own creation. Artificial intelligence has gone a bridge too far, as machines created their own army. Fed with hatred of competition and rush for progress, Nimble intends to conquer the galaxy. Nimble cards can only be played and earned when connected via Binance Smart Chain.
+
+Designs are adjusted in a way that each species' cards are recognizable yet with a lot of variation in designs. We do this by adding small returning details. Species have different cards, not just in design but also in statistics. For the game this means every species has their own specialism. Keeping the game balanced will always remain a dynamic process, since new cards will be released on frequent basis.
+
+The main goal of the game is getting a strong, diverse deck of cards so you can compete with the best players of the game.
 
 Land will be the supportive secondairy gamemode. Land is essentially a planet divided into lots of plots of building space. Players can upgrade their deck, personalize their character and piece of land and socialize with other players. It also functions as a way to level up to avoid matchmaking issues. See [Land](land.md) for more detailed information.
 
