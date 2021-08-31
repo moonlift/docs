@@ -16,7 +16,9 @@ After millenia of conflict the essence of the galaxy, SuperNova, has been destro
 
 The main game is a strategic card-game. The cards are created by our very own designers and made compatible by our game- and blockchaindevelopers. Cards differ by species, type and rarity. Let's elaborate.
 
-**Species** - Species relate to the associated networks. These are our own - Moonlift, Polygon - Origon and Binance Smart Chain - Nimble. 
+### **Species**
+
+Species relate to the associated networks. These are our own - Moonlift, Polygon - Origon and Binance Smart Chain - Nimble. 
 
 Moonlift consists out of humans heavily adapted to space circumstances as a result of evolutionary progress. Life on earth became nearly impossible so when possibilities expanded, humans have expanded their residence across the galaxy. They have a neutral position in the game, meaning they can be played whether you are connected via Polygon or Binance Smart Chain.
 
@@ -24,11 +26,37 @@ Origon are the rumored unknown visitors we talked about for centuries. All this 
 
 Nimble is the result of our own creation. Artificial intelligence has gone a bridge too far, as machines created their own army. Fed with hatred of competition and rush for progress, Nimble intends to conquer the galaxy. Nimble cards can only be played and earned when connected via Binance Smart Chain.
 
-Designs are adjusted in a way that each species' cards are recognizable yet with a lot of variation in designs. We do this by adding small returning details. Species have different cards, not just in design but also in statistics. For the game this means every species has their own specialism. Keeping the game balanced will always remain a dynamic process, since new cards will be released on frequent basis.
+Designs are adjusted in a way that each species' cards are recognizable yet with a lot of variation in designs. We do this by adding small returning details. Species have different cards, not just in design but also in statistics. For the game this means every species has their own specialism. Keeping the game balanced will always remain a never ending process, since new cards will be released on frequent basis.
 
-The main goal of the game is getting a strong, diverse deck of cards so you can compete with the best players of the game.
+### **Type**
 
-Land will be the supportive secondairy gamemode. Land is essentially a planet divided into lots of plots of building space. Players can upgrade their deck, personalize their character and piece of land and socialize with other players. It also functions as a way to level up to avoid matchmaking issues. See [Land](land.md) for more detailed information.
+Although species make cards unique, types of cards remain the same. The statistics on cards can differ, but the main functions are basic. Until now, this is our list of card types.
+
+* **Hero Cards**: Your main card. If it dies, it's game over. Some cards can weaponize your hero card.
+
+
+
+* **Minion Cards**: Can be used in the playfield. There are different types of minions, but every one of them has a health-, attack and mana cost indicator with a description.
+* Provoke: Minion that has to be prioritized when the enemy attacks you. If you have multiple Provoke in the playfield, your opponent may choose which one he wants to attack.
+* Buff: Minion \(often weak itself\) that buffs other friendly minions. This can be in health, attack, or the power of your abilities.
+
+
+
+* **Abilities**: Abilities break all laws that limit minions and has the options to damage or heal and influence mana and card use.
+
+
+
+* **Runes**: When rune cards are used, the opponent will not know it's function until it meets a certain requirement for activation. For example, your hero cards can get 5 armor when attacked.
+
+### Rarity
+
+Rarity is divided into two clusters; Tiers and Forms. You can see the droprates from lootboxes [here](rewards-and-earnings.md). Tiers are simply the gradations of strongess we assigned to the cards. Tiers are Common - Rare - Epic - Legendary. Forms are mostly cosmetic, but the final form \(Rainbow\) also gives a card +1 / +1. Forms are Gold - Holo - Rainbow.
+
+### How to play
+
+The main goal of the game is getting and selecting a strong, diverse deck of cards so you can compete with the best players of the game. Apply your strategic choices before you even enter a game by mindfully picking your deck, then apply your quick thinking in game. To get better cards, buy or earn lootboxes.
+
+Land will be the supportive secondary gamemode. Land is essentially a planet divided into lots of plots of building space. Players can upgrade their deck, personalize their character and piece of land and socialize with other players. It also functions as a way to level up to avoid matchmaking issues. See [Land](land.md) for more detailed information.
 
 {% hint style="info" %}
 You are the one and only owner of your rewards so you choose how to utilize them.
