@@ -54,7 +54,7 @@ Rarity is divided into two clusters; Tiers and Forms. You can see the droprates 
 
 ### How to play
 
-The main goal of the game is getting and selecting a strong, diverse deck of cards so you can compete with the best players of the game. Apply your strategic choices before you even enter a game by mindfully picking your deck, then apply your quick thinking in game. To get better cards, buy or earn lootboxes.
+The main goal of the game is getting and selecting a strong, diverse deck of cards so you can compete with the best players of the game. Apply your strategic choices before you even enter a game by mindfully picking your deck, then apply your quick thinking in game. To get better cards, buy or earn lootboxes. 
 
 Land will be the supportive secondary gamemode. Land is essentially a planet divided into lots of plots of building space. Players can upgrade their deck, personalize their character and piece of land and socialize with other players. It also functions as a way to level up to avoid matchmaking issues. See [Land](land.md) for more detailed information.
 
