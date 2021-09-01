@@ -6,7 +6,7 @@ description: 'MLTPX, Nimble and Origon can be utilized for Play & Earn in differ
 
 ## Summary
 
-We will describe the utility and sustainability of each token, in the context of Card Game. We will elaborate on considered decisions and hope to clearly inform you about the dynamic.
+We will describe the utility and sustainability of each token, within the context of ChainWars. We will elaborate on considered decisions and hope to clearly inform you about the dynamic.
 
 ### MLTPX
 
