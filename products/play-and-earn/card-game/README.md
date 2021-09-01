@@ -1,5 +1,7 @@
 # ChainWars
 
+![](../../../.gitbook/assets/chainwars_logo.png)
+
 ## Introduction
 
 We are extremely excited to be working on a blockchaingame since it's still a very unique opportunity. In ChainWars, we can utilize all creativity we and the community have to offer! We can showcase art in any form \(with the possibility to tokenize it\), direct the flow of the story and make crypto an interactive and possibly more understandable experience.
