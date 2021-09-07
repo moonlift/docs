@@ -1,0 +1,2 @@
+# ⚔️ Chain Wars Token
+

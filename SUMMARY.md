@@ -27,3 +27,7 @@
 * [🤖 Nimble](tokenomics-secondary-tokens/nimble/README.md)
   * [Tokenomics Nimble](tokenomics-secondary-tokens/nimble/tokenomics-nimble.md)
 
+---
+
+* [⚔️ Chain Wars Token](chain-wars-token.md)
+
