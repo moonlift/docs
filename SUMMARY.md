@@ -21,13 +21,10 @@
 
 ## Tokenomics Secondary Tokens
 
+* [⚔️ Chain Wars Token](tokenomics-secondary-tokens/chain-wars-token.md)
 * [💲 Dual Tokensale](tokenomics-secondary-tokens/dual-tokensale.md)
 * [👽 Origon](tokenomics-secondary-tokens/origon/README.md)
   * [Tokenomics Origon](tokenomics-secondary-tokens/origon/tokenomics-origon.md)
 * [🤖 Nimble](tokenomics-secondary-tokens/nimble/README.md)
   * [Tokenomics Nimble](tokenomics-secondary-tokens/nimble/tokenomics-nimble.md)
-
----
-
-* [⚔️ Chain Wars Token](chain-wars-token.md)
 
