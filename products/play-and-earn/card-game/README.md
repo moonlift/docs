@@ -1,6 +1,6 @@
 # ChainWars
 
-![](../../../.gitbook/assets/chainwars_logo.png)
+![](../../../.gitbook/assets/chainwars_webbanner_2.png)
 
 ## Introduction
 

@@ -8,9 +8,6 @@
 
 ## Products
 
-* [💱 Swap](products/swap/README.md)
-  * [How to Swap](products/swap/how-to-swap.md)
-* [🎫 Lottery](products/lottery.md)
 * [🎨 NFT Marketplace](products/nft-marketplace.md)
 * [🎮 Play & Earn](products/play-and-earn/README.md)
   * [Tournaments](products/play-and-earn/tournaments.md)
@@ -21,12 +18,6 @@
     * [eSports](products/play-and-earn/card-game/esports.md)
   * [Alpha Team](products/play-and-earn/alpha-team.md)
   * [News & Announcements](products/play-and-earn/news-and-announcements.md)
-* [✨ Supernova](products/supernova.md)
-* [🚜 Farms](products/farms.md)
-
-## Tokenomics MLTPX <a id="tokenomics"></a>
-
-* [👩‍🚀 MLTPX](tokenomics/mltpx.md)
 
 ## Tokenomics Secondary Tokens
 
@@ -35,8 +26,4 @@
   * [Tokenomics Origon](tokenomics-secondary-tokens/origon/tokenomics-origon.md)
 * [🤖 Nimble](tokenomics-secondary-tokens/nimble/README.md)
   * [Tokenomics Nimble](tokenomics-secondary-tokens/nimble/tokenomics-nimble.md)
-
----
-
-* [Roadmap](roadmap.md)
 
