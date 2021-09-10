@@ -27,5 +27,5 @@ Zosalara has a total of ~5000 plots. The plots aren't all the same. Some are rar
 | Plasma Fields | 2000 |
 | Resource Plots \(Can't be owned\) | 1000 |
 
-
+### The Gameplay
 
