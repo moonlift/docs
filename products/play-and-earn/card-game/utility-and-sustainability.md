@@ -1,16 +1,14 @@
 ---
-description: 'MLTPX, Nimble and Origon can be utilized for Play & Earn in different ways.'
+description: Nimble and Origon can be utilized for Play & Earn in different ways.
 ---
 
 # Utility and Sustainability
 
+![](../../../.gitbook/assets/chainwars_webbanner_3.png)
+
 ## Summary
 
 We will describe the utility and sustainability of each token, within the context of ChainWars. We will elaborate on considered decisions and hope to clearly inform you about the dynamic. 
-
-### MLTPX
-
-Owning MLTPX allows participants to 'have a say' in ongoing discussions. These discussions can concern a wide variety of issues such as future updates, problems/bugs and voting for contests/events. 
 
 ### Nimble/Origon
 
