@@ -4,7 +4,7 @@ description: >-
   solve an issue? We will take you by the hand in these step-by-step guides.
 ---
 
-# Starter Guides
+# 📒 Starter Guides
 
 You can either choose if you want to read our guide from the beginning, or jump right to the point.
 

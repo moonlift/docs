@@ -1,4 +1,4 @@
-# Chain Wars
+# ⚔️ Chain Wars
 
 ![](../../.gitbook/assets/chainwars_webbanner_2.png)
 
