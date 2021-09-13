@@ -20,15 +20,15 @@ The main game is a strategic card-game. The cards are created by our very own de
 
 ### **Species**
 
-Species relate to the associated networks. These are our own - Moonlift, Polygon - Origon and Binance Smart Chain - Nimble. 
+We have a neutral species and species that relate to the associated networks. These are Chain Wars \(neutral\), Origon \(Polygon\) and Nimble \(Binance Smart Chain\).
 
-Moonlift consists out of humans heavily adapted to space circumstances as a result of evolutionary progress. Life on earth became nearly impossible so when possibilities expanded, humans have expanded their residence across the galaxy. They have a neutral position in the game, meaning they can be played whether you are connected via Polygon or Binance Smart Chain.
+Chain Wars consists out of humans heavily adapted to space circumstances as a result of evolutionary progress. Life on earth became nearly impossible so when possibilities expanded, humans have expanded their residence across the galaxy. They have a neutral position in the game, meaning they can be played whether you are connected via Polygon or Binance Smart Chain.
 
 Origon are the rumored unknown visitors we talked about for centuries. All this time has led to suspicion about each others intentions. Origon wants to protect its inhabitation at all cost. Origon cards can only be played and earned when connected via Polygon.
 
 Nimble is the result of our own creation. Artificial intelligence has gone a bridge too far, as machines created their own army. Fed with hatred of competition and rush for progress, Nimble intends to conquer the galaxy. Nimble cards can only be played and earned when connected via Binance Smart Chain.
 
-Designs are adjusted in a way that each species' cards are recognizable yet with a lot of variation in designs. We do this by adding small returning details. Species have different cards, not just in design but also in statistics. For the game this means every species has their own specialism. Keeping the game balanced will always remain a never ending process, since new cards will be released on frequent basis.
+Designs are adjusted in a way that each species' cards are recognizable yet with a lot of variation in designs. We do this by adding small returning details. Species have different cards, not just in design but also in statistics. For the game this means every species has their own specialism. Keeping the game balanced will remain a never ending process, since new cards will be released on frequent basis.
 
 ### **Type**
 
