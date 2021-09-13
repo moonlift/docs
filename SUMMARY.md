@@ -13,8 +13,8 @@
   * [Land](products/card-game/land.md)
   * [Utility and Sustainability](products/card-game/utility-and-sustainability.md)
   * [eSports](products/card-game/esports.md)
-* [🎨 NFT Marketplace](products/nft-marketplace.md)
 * [🏆 Tournaments](products/tournaments.md)
+* [🎨 NFT Marketplace](products/nft-marketplace.md)
 * [🅰️ Alpha Team](products/alpha-team.md)
 
 ## Tokenomics Secondary Tokens
