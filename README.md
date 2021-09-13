@@ -4,5 +4,5 @@ Welcome to Chain Wars. In this whitepaper we will share our vision, introduce ou
 
 Since Play & Earn is a new concept we are able to be very innovative. We will provide ways of earning valuable property which you can be the owner of, no intermediaries involved. We have seen big gaming corporates achieving the craving for earning digital property with virtual value. The blockchain enables possibilities to establish a safe & healthy economic environment to approach this differently, so that players truly own what they obtain.
 
-So, what is Play & Earn? Simply put, you can earn currency and NFT's by playing games. We collaborate with gamedevelopers and blockchaindevelopers to to make products that contain the best of both. If you posess the sufficient funds \(CWE\) to participate, you can play one of our games with the potential of earning more \(or valuable NFT's\). 
+So, what is Play & Earn? Simply put, you can earn currency and NFT's by playing games. We collaborate with gamedevelopers and blockchaindevelopers to make products that contain the best of both. If you posess the sufficient funds \(CWE\) to participate, you can play one of our games with the potential of earning more \(or valuable NFT's\). 
 
