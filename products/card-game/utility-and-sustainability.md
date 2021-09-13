@@ -4,7 +4,7 @@ description: Nimble and Origon can be utilized for Play & Earn in different ways
 
 # Utility and Sustainability
 
-![](../../../.gitbook/assets/chainwars_webbanner_3.png)
+![](../../.gitbook/assets/chainwars_webbanner_3.png)
 
 ## Summary
 

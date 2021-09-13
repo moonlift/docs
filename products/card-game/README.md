@@ -1,16 +1,16 @@
-# ChainWars
+# Chain Wars
 
-![](../../../.gitbook/assets/chainwars_webbanner_2.png)
+![](../../.gitbook/assets/chainwars_webbanner_2.png)
 
 ## Introduction
 
-We are extremely excited to be working on a blockchaingame since it's still a very unique opportunity. In ChainWars, we can utilize all creativity we and the community have to offer! We can showcase art in any form \(with the possibility to tokenize it\), direct the flow of the story and make crypto an interactive and possibly more understandable experience.
+We are extremely excited to be working on a blockchaingame since it's still a very unique opportunity. In Chain Wars, we can utilize all creativity we and the community have to offer! We can showcase art in any form \(with the possibility to tokenize it\), direct the flow of the story and make crypto an interactive and possibly more understandable experience.
 
 In abstract, we wish to use the technical possibilities blockchain provides to make a fun game in which the player is the one and only owner of his/her earnings.
 
 ## Story
 
-ChainWars evolves around a story of galactic warfare. As machines developed the intelligence to stop being simply tools and devices for humans to use, they formed their own vision of conquer and destruction. Meanwhile, the once mysterious visitors of earth value the protection of their living above all. After suffering from years of living in a polarized society, humans choose seperate sides in the upcoming war.
+Chain Wars evolves around a story of galactic warfare. As machines breached the barriers of servitude intelligence to stop being tools and devices for humans to use, they formed their own vision of conquer and destruction. Meanwhile, the once mysterious visitors of earth value the protection of their living above all. After suffering from years of living in a polarized society, humans choose seperate sides in the upcoming war.
 
 After millenia of conflict the essence of the galaxy, SuperNova, has been destroyed . Dark years have passed, planets and inhabitants have suffered and resources are scarce. It's up to the survivors to recharge the SuperNova and revive the galaxy!
 

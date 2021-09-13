@@ -8,16 +8,15 @@
 
 ## Products
 
+* [Chain Wars](products/card-game/README.md)
+  * [Rewards & Earnings](products/card-game/rewards-and-earnings.md)
+  * [Land](products/card-game/land.md)
+  * [Utility and Sustainability](products/card-game/utility-and-sustainability.md)
+  * [eSports](products/card-game/esports.md)
 * [🎨 NFT Marketplace](products/nft-marketplace.md)
-* [🎮 Play & Earn](products/play-and-earn/README.md)
-  * [Tournaments](products/play-and-earn/tournaments.md)
-  * [ChainWars](products/play-and-earn/card-game/README.md)
-    * [Rewards & Earnings](products/play-and-earn/card-game/rewards-and-earnings.md)
-    * [Land](products/play-and-earn/card-game/land.md)
-    * [Utility and Sustainability](products/play-and-earn/card-game/utility-and-sustainability.md)
-    * [eSports](products/play-and-earn/card-game/esports.md)
-  * [Alpha Team](products/play-and-earn/alpha-team.md)
-  * [News & Announcements](products/play-and-earn/news-and-announcements.md)
+* [Tournaments](products/tournaments.md)
+* [Alpha Team](products/alpha-team.md)
+* [🎮 Play & Earn](products/play-and-earn.md)
 
 ## Tokenomics Secondary Tokens
 
