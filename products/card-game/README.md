@@ -10,7 +10,7 @@ In abstract, we wish to use the technical possibilities blockchain provides to m
 
 ## Story
 
-Chain Wars evolves around a story of galactic warfare. As machines breached the barriers of servitude intelligence to stop being tools and devices for humans to use, they formed their own vision of conquer and destruction. Meanwhile, the once mysterious visitors of earth value the protection of their living above all. After suffering from years of living in a polarized society, humans choose seperate sides in the upcoming war.
+Chain Wars evolves around a story of galactic warfare. As machines breached the barriers of servitude to humans, they formed their own needs of conquer and destruction. Meanwhile, the once mysterious visitors of earth value the protection of their living above all. After enduring decades of polarization, humans choose seperate sides in the upcoming war.
 
 After millenia of conflict the essence of the galaxy, SuperNova, has been destroyed . Dark years have passed, planets and inhabitants have suffered and resources are scarce. It's up to the survivors to recharge the SuperNova and revive the galaxy!
 
