@@ -16,7 +16,6 @@
 * [🎨 NFT Marketplace](products/nft-marketplace.md)
 * [🏆 Tournaments](products/tournaments.md)
 * [🅰️ Alpha Team](products/alpha-team.md)
-* [🎮 Play & Earn](products/play-and-earn.md)
 
 ## Tokenomics Secondary Tokens
 
