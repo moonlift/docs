@@ -22,8 +22,6 @@
 
 * [⚔️ Chain Wars Token](tokenomics-secondary-tokens/chain-wars-token.md)
 * [🃏 Card Decks](tokenomics-secondary-tokens/card-decks/README.md)
-  * [🤖 Nimble](tokenomics-secondary-tokens/card-decks/nimble/README.md)
-    * [Tokenomics Nimble](tokenomics-secondary-tokens/card-decks/nimble/tokenomics-nimble.md)
-  * [👽 Origon](tokenomics-secondary-tokens/card-decks/origon/README.md)
-    * [Tokenomics Origon](tokenomics-secondary-tokens/card-decks/origon/tokenomics-origon.md)
+  * [🤖 Nimble](tokenomics-secondary-tokens/card-decks/nimble.md)
+  * [👽 Origon](tokenomics-secondary-tokens/card-decks/origon.md)
 
