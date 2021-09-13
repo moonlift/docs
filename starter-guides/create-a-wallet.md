@@ -4,8 +4,6 @@ The first thing you want to find out before picking your wallet, is the network 
 
 In the near future visuals will change in some functions depending on your network. Besides, since Origon and Nimble are our rewardtokens, you will be rewarded Origon when connected via Polygon and Nimble when connected via Binance Smart Chain. For some games it's even an indicator for what type of loot you can obtain. Don't worry, we'll make sure everything is as balanced as possible but there are going to be minor differences.
 
-![](../.gitbook/assets/origon+nimble.png)
-
 {% hint style="danger" %}
 The first things you should want to know when creating a wallet are;
 
