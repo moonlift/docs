@@ -1,6 +1,6 @@
 # Tokenomics Origon
 
-![](../../.gitbook/assets/origon-governance-2%20%281%29.png)
+![](../../../.gitbook/assets/origon-governance-2%20%281%29.png)
 
 
 

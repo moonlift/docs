@@ -1,6 +1,6 @@
 # Table of contents
 
-* [Contracts](README.md)
+* [🏠 Home](README.md)
 * [Starter Guides](starter-guides/README.md)
   * [Create a wallet](starter-guides/create-a-wallet.md)
   * [Get BEP-20 or ERC-20 tokens](starter-guides/get-bep-20-or-erc-20-tokens.md)
@@ -21,8 +21,9 @@
 ## Tokenomics Secondary Tokens
 
 * [⚔️ Chain Wars Token](tokenomics-secondary-tokens/chain-wars-token.md)
-* [👽 Origon](tokenomics-secondary-tokens/origon/README.md)
-  * [Tokenomics Origon](tokenomics-secondary-tokens/origon/tokenomics-origon.md)
-* [🤖 Nimble](tokenomics-secondary-tokens/nimble/README.md)
-  * [Tokenomics Nimble](tokenomics-secondary-tokens/nimble/tokenomics-nimble.md)
+* [Card Decks](tokenomics-secondary-tokens/card-decks/README.md)
+  * [🤖 Nimble](tokenomics-secondary-tokens/card-decks/nimble/README.md)
+    * [Tokenomics Nimble](tokenomics-secondary-tokens/card-decks/nimble/tokenomics-nimble.md)
+  * [👽 Origon](tokenomics-secondary-tokens/card-decks/origon/README.md)
+    * [Tokenomics Origon](tokenomics-secondary-tokens/card-decks/origon/tokenomics-origon.md)
 

@@ -1,6 +1,6 @@
 # Tokenomics Nimble
 
-![](../../.gitbook/assets/nimble-governance-2%20%281%29.png)
+![](../../../.gitbook/assets/nimble-governance-2%20%281%29.png)
 
 
 
