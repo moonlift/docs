@@ -1,4 +1,4 @@
-# 🤖 Nimble
+# Nimble
 
 ![](../../.gitbook/assets/nimble-banner.png)
 

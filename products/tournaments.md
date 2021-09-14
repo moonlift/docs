@@ -1,4 +1,4 @@
-# 🏆 Tournaments
+# Tournaments
 
 ![](../.gitbook/assets/piiebhx3fqhmrixi6byp2ytt67-ogzdwxt9xzgae4m0.jpg)
 

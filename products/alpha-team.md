@@ -1,2 +1,2 @@
-# 🅰️ Alpha Team
+# Alpha Team
 

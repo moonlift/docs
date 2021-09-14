@@ -1,4 +1,4 @@
-# 👽 Origon
+# Origon
 
 ![](../../.gitbook/assets/origon-banner.png)
 

@@ -1,2 +1,2 @@
-# 🃏 Card Decks
+# Card Decks
 

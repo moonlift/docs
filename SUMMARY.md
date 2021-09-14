@@ -8,21 +8,21 @@
 
 ## Products
 
-* [⚔️ Chain Wars](products/card-game/README.md)
+* [Chain Wars](products/card-game/README.md)
   * [Rewards & Earnings](products/card-game/rewards-and-earnings.md)
   * [Land](products/card-game/land.md)
   * [Utility and Sustainability](products/card-game/utility-and-sustainability.md)
   * [eSports](products/card-game/esports.md)
-* [🏆 Tournaments](products/tournaments.md)
-* [🎨 NFT Marketplace](products/nft-marketplace.md)
-* [🅰️ Alpha Team](products/alpha-team.md)
+* [Tournaments](products/tournaments.md)
+* [NFT Marketplace](products/nft-marketplace.md)
+* [Alpha Team](products/alpha-team.md)
 
 ## Tokenomics Secondary Tokens
 
-* [⚔️ Chain Wars Token](tokenomics-secondary-tokens/chain-wars-token.md)
-* [🃏 Card Decks](tokenomics-secondary-tokens/card-decks/README.md)
-  * [🤖 Nimble](tokenomics-secondary-tokens/card-decks/nimble.md)
-  * [👽 Origon](tokenomics-secondary-tokens/card-decks/origon.md)
+* [Chain Wars Token](tokenomics-secondary-tokens/chain-wars-token.md)
+* [Card Decks](tokenomics-secondary-tokens/card-decks/README.md)
+  * [Nimble](tokenomics-secondary-tokens/card-decks/nimble.md)
+  * [Origon](tokenomics-secondary-tokens/card-decks/origon.md)
 
 ## Art
 
