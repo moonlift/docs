@@ -1,10 +1,6 @@
 # Nimble
 
-![](../../.gitbook/assets/nimble-banner.png)
-
-* **Ticker:** 
-* **Contract Adress:**
-* **Chain:** 
+![](../../.gitbook/assets/nimble-banner%20%281%29.png)
 
 ## Nimble Card Deck
 
