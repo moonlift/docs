@@ -1,10 +1,8 @@
 # Origon
 
-![](../../.gitbook/assets/origon-banner.png)
+![](../../.gitbook/assets/origon-banner%20%281%29.png)
 
-* **Ticker:** 
-* **Contract Adress:**
-* **Chain:** 
+
 
 ## Origon Card Deck
 
