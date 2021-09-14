@@ -24,3 +24,7 @@
   * [🤖 Nimble](tokenomics-secondary-tokens/card-decks/nimble.md)
   * [👽 Origon](tokenomics-secondary-tokens/card-decks/origon.md)
 
+## Art
+
+* [Style Sheet](art/style-sheet.md)
+
