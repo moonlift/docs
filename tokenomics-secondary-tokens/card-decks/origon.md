@@ -4,7 +4,7 @@
 
 
 
-## Origon Card Deck
+## Origon Card Deck \(Polygon network\)
 
 All Origon investors will receive a Card Deck with Nimble Cards. View all currently active cards on this page.
 
