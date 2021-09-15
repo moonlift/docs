@@ -6,3 +6,5 @@
 
 All Nimble investors will receive a Card Deck with Nimble Cards. View all currently active cards on this page.
 
+![](../../.gitbook/assets/guerilla-leader_moonlift.jpg)
+
