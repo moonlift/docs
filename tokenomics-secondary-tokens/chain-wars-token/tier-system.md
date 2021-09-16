@@ -12,5 +12,5 @@ Chain Wars has a tier system which enables players who invest or hodl more to ha
 
 | Tier | 1 | 2 | 3 | 4 | 5 | Super |
 | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
-| **Reward Per Win \(in USD\)** | 0.010 | 0.050 | 0.25 | 1.25 | 6.25 | 31.25 |
+| **Reward Per Win \(in CWE\)** | 0.010 | 0.050 | 0.25 | 1.25 | 6.25 | 31.25 |
 
