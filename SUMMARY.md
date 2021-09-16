@@ -19,7 +19,9 @@
 
 ## Tokenomics Secondary Tokens
 
-* [Chain Wars Essence \(CWE\)](tokenomics-secondary-tokens/chain-wars-token.md)
+* [Chain Wars Essence \(CWE\)](tokenomics-secondary-tokens/chain-wars-token/README.md)
+  * [Governance](tokenomics-secondary-tokens/chain-wars-token/governance.md)
+  * [Tier System](tokenomics-secondary-tokens/chain-wars-token/tier-system.md)
 * [Card Decks](tokenomics-secondary-tokens/card-decks/README.md)
   * [Nimble](tokenomics-secondary-tokens/card-decks/nimble.md)
   * [Origon](tokenomics-secondary-tokens/card-decks/origon.md)
