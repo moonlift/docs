@@ -4,7 +4,7 @@ Chain Wars has a tier system which enables players who invest or hodl more to ha
 
 | Tier | 1 | 2 | 3 | 4 | 5 | Super |
 | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
-| **Range \(in USD\)** | 1 - 2000 CWE | 2001 - 10.000 CWE | 10.000 - 50.000 CWE | 50.001 - 250.000 CWE | 250.001 - 1.250.000 CWE | 1.250.001 - Infinite CWE |
+| **Range \(in CWE\)** | 1 - 2000 CWE | 2001 - 10.000 CWE | 10.000 - 50.000 CWE | 50.001 - 250.000 CWE | 250.001 - 1.250.000 CWE | 1.250.001 - Infinite CWE |
 
 
 
