@@ -39,8 +39,8 @@ Every first day of a month, a season starts. From the start until the end a priz
 |  | NFT | Lootbox | Season Pass |
 | :--- | :--- | :--- | :--- |
 | **User** | Spend for NFT | Buy with CWE | Buy with CWE |
-| **Season Prizes** | 0.25% | 25% of transaction | 75% of transaction |
-| **Treasury** | 4% | 75% of transaction | 25% of transaction |
+| **Season Prizes** | 0.25% | 25% per sold unit | 75% of transaction |
+| **Treasury** | 4% | 75% per sold unit | 25% of transaction |
 
 {% hint style="warning" %}
 To play Competitive and climb the leaderboards, you need a Season Pass.
