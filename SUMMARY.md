@@ -20,6 +20,7 @@
 ## Tokenomics Secondary Tokens
 
 * [Chain Wars Essence \(CWE\)](tokenomics-secondary-tokens/chain-wars-token/README.md)
+  * [Utility](tokenomics-secondary-tokens/chain-wars-token/utility.md)
   * [Governance](tokenomics-secondary-tokens/chain-wars-token/governance.md)
 * [Card Decks](tokenomics-secondary-tokens/card-decks/README.md)
   * [Nimble](tokenomics-secondary-tokens/card-decks/nimble.md)
