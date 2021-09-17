@@ -4,7 +4,7 @@
 
 ![](../../.gitbook/assets/lootboxjes.png)
 
-These will be for sale on the NFT-marketplace \(~5 USD in $CWE\) and obtainable via the completion of all weekly quests. Events will provide even more ways to obtain lootboxes. Each lootbox has a chance to drop cards in a certain rarity and form. The rarity will determine how strong the card is. The form is a cosmetic feature. See the tables below to find out about the drop rates.
+These will be for sale on the NFT-marketplace \(~5 USD in CWE\) and obtainable via the completion of all weekly quests. Events will provide even more ways to obtain lootboxes. Each lootbox has a chance to drop cards in a certain rarity and form. The rarity will determine how strong the card is. The form is a cosmetic feature and can give additional buffs. See the tables below to find out about the drop rates.
 
 Forging also allows players to farm stronger cards with lesser ones. This will consume resources and patience though. Read more about this in the Forging section.
 
@@ -32,9 +32,19 @@ Forging also allows players to farm stronger cards with lesser ones. This will c
 | Holo | 24% |
 | Rainbow | 1% |
 
-### Season prizes
+### Seasons
 
-We will allocate 10% of mint per block for Nimble and Origon to be awarded as auto-injection to the top 20 players. 1.325 x 30 = 39.750 is the share of daily emission to be distributed amongst the top 20. 1.325 is 10% of daily emission. 30 is the amount of days in a season \(monthly\).
+ Every first day of a month, a season starts. From the start until the end a prize pool starts building up via sold Lootboxes and Season passes \(both ~5 USD worth in CWE\) aswel as via sold NFT's on the marketplace. These fees are;
+
+* **Lootboxes:** 25%
+* **Season Pass:** 75%
+* **NFT Marketplace Transactions:** 0.25%
+
+|  | NFT | Lootbox | Season Pass |
+| :--- | :--- | :--- | :--- |
+| **User** | Spend for NFT | Buy with CWE | Buy with CWE |
+| **Season Prizes** | 0.25% | 25% of transaction | 75% of transaction |
+| **Treasury** | 4% | 75% of transaction | 25% of transaction |
 
 | Rank | Percentage of share \(%\) |
 | :--- | :--- |
