@@ -58,7 +58,7 @@ Collect wins in our Competitive mode to climb the leaderboards. The leaderboard 
 
 ### Reward per Win
 
-For each win, you get suitable rewards. These depend on your current level and skill \(the latter is measured with the division you're playing in\).
+For each win, you get suitable rewards. These depend on your Tier. Your Tier is determined by the amount of CWE you are currently holding. Snapshots of player Tiers will be made at random.
 
 ### Daily Quests
 
