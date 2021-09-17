@@ -34,17 +34,19 @@ Forging also allows players to farm stronger cards with lesser ones. This will c
 
 ### Seasons
 
- Every first day of a month, a season starts. From the start until the end a prize pool starts building up via sold Lootboxes and Season passes \(both ~5 USD worth in CWE\) aswel as via sold NFT's on the marketplace. These fees are;
-
-* **Lootboxes:** 25%
-* **Season Pass:** 75%
-* **NFT Marketplace Transactions:** 0.25%
+Every first day of a month, a season starts. From the start until the end a prize pool starts building up via sold Lootboxes and Season passes \(both ~5 USD worth in CWE\) aswel as via sold NFT's on the marketplace.
 
 |  | NFT | Lootbox | Season Pass |
 | :--- | :--- | :--- | :--- |
 | **User** | Spend for NFT | Buy with CWE | Buy with CWE |
 | **Season Prizes** | 0.25% | 25% of transaction | 75% of transaction |
 | **Treasury** | 4% | 75% of transaction | 25% of transaction |
+
+{% hint style="warning" %}
+To play Competitive and climb the leaderboards, you need a Season Pass.
+{% endhint %}
+
+Collect wins in our Competitive mode to climb the leaderboards. The leaderboard will show the top 20 players and will therefore determine the prize winners. The winners get a share of the pool and the top 5 gets a unique \(tokenized\) Season Emblem.
 
 | Rank | Percentage of share \(%\) |
 | :--- | :--- |
@@ -70,7 +72,7 @@ These will contain three preset quests, centivizing players to spend a small amo
 
 You can also obtain rewards on weekly basis by completing weekly quests. These are 5 quests which will differ but come down to playing certain cards, playing/winning an x amount of games or minor quests related to the decentralized exchange.
 
-### Referrals
+### Referals
 
-Referrals allow you to invite up to 10 friends and get rewards. More to come.
+Referals allow you to invite up to 10 friends and get rewards. More to come.
 
