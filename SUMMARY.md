@@ -10,9 +10,9 @@
 
 * [Chain Wars](products/card-game/README.md)
   * [Rewards & Earnings](products/card-game/rewards-and-earnings.md)
+  * [Tier System](products/card-game/tier-system.md)
   * [Land](products/card-game/land.md)
   * [Utility and Sustainability](products/card-game/utility-and-sustainability.md)
-  * [eSports](products/card-game/esports.md)
 * [Tournaments](products/tournaments.md)
 * [NFT Marketplace](products/nft-marketplace.md)
 * [Alpha Team](products/alpha-team.md)
@@ -21,14 +21,13 @@
 
 * [Chain Wars Essence \(CWE\)](tokenomics-secondary-tokens/chain-wars-token/README.md)
   * [Governance](tokenomics-secondary-tokens/chain-wars-token/governance.md)
-  * [Tier System](tokenomics-secondary-tokens/chain-wars-token/tier-system.md)
 * [Card Decks](tokenomics-secondary-tokens/card-decks/README.md)
   * [Nimble](tokenomics-secondary-tokens/card-decks/nimble.md)
   * [Origon](tokenomics-secondary-tokens/card-decks/origon.md)
 
 ## Art
 
-* [Style Sheet](art/style-sheet.md)
+* [Earn for Contributions](art/style-sheet.md)
 
 ---
 
