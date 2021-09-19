@@ -37,7 +37,7 @@ Chain Wars Essence \(CWE\) is the bridge between community and game. It allows p
       <td style="text-align:left">50% per sold unit</td>
       <td style="text-align:left">50% per sold unit</td>
       <td style="text-align:left">
-        <p>50% per sold</p>
+        <p>90% per sold</p>
         <p>unit</p>
       </td>
     </tr>
@@ -50,7 +50,7 @@ Chain Wars Essence \(CWE\) is the bridge between community and game. It allows p
       <td style="text-align:left">50% per sold unit</td>
       <td style="text-align:left">50% per sold unit</td>
       <td style="text-align:left">
-        <p>50% per sold</p>
+        <p>10% per sold</p>
         <p>unit</p>
       </td>
     </tr>
