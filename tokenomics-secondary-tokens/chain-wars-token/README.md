@@ -10,5 +10,7 @@ Chain Wars Essence \(CWE\) is the bridge between community and game. It allows p
 
 These usecases create a dynamic in which the player is centivized to hold CWE, because with more CWE you have more voting power \(governance\) and possibilities within the game. With these possibilties you can amplify your Play to Earn experience. Find more information about these subjects in [Governance](governance.md) and [Tier System](../../products/card-game/tier-system.md).
 
+![](../../.gitbook/assets/infinite-loop-protocol.png)
+
 
 
